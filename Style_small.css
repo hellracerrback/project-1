@@ -1,0 +1,55 @@
+.logo{
+	margin-left:40%;
+	padding-left:0px;
+}
+nav ul li {
+	background-color:black;
+	border-top:1px solid #d9d9d9;
+	font-size:15px;
+	font-family:courier;
+	text-align:center;
+	letter-spacing:2px;
+	width:101.6%;
+	padding:15px;
+	float:right;
+	margin-top:0px;
+}
+ul li a {
+	color:white;
+	text-align:center;
+	width:100%;
+}
+header nav ul li:hover{
+	background-color:#00ACC7;
+	color:white;
+	font-weight:bold;
+	font-size: 1.2rem;
+}
+.cover-image{
+	font-size:10vw;
+	height:50%;
+}
+.cover-image h1{
+font-size:6rem;
+
+}
+.block{
+	margin-left:5%;
+	width:90%;
+}
+.block p{
+	font-size:1.2rem;
+}
+.block h2{
+	font-size:2rem;
+}
+
+.img-desc{
+	
+	width:100%;
+}
+footer{
+	position:relative;
+	margin-top:15%;	
+}
+
